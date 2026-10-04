@@ -1,0 +1,390 @@
+{
+ "fdm": {
+  "title": "FDM 3D Printing",
+  "subtitle": "Precision layer-by-layer thermoplastic manufacturing in Chennai",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "What is FDM 3D Printing?"
+   },
+   {
+    "t": "p",
+    "x": "FDM (Fused Deposition Modeling) is a 3D printing technology that melts thermoplastic filament and deposits it layer by layer to build a part. It is one of the most commonly used and cost-effective 3D printing methods, widely used in Chennai and globally for functional prototypes and engineering components."
+   },
+   {
+    "t": "h3",
+    "x": "🔧 How FDM Works:"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Plastic filament (PLA, ABS, PETG, Nylon, etc.) is fed into the printer",
+     "Nozzle heats and melts the filament",
+     "Melted material is extruded layer by layer",
+     "Layers cool and solidify to form the final part"
+    ]
+   },
+   {
+    "t": "h3",
+    "x": "⭐ Advantages of FDM 3D Printing"
+   },
+   {
+    "t": "grid",
+    "items": [
+     "Cost-effective production",
+     "Strong & functional parts",
+     "Large size printing possible",
+     "Suitable for engineering applications",
+     "Fast prototype production"
+    ]
+   }
+  ],
+  "images": [
+   {
+    "src": "FDM.png",
+    "alt": "FDM 3D Printing Service by VCAN 3D Chennai - Thermoplastic Part Manufacturing"
+   }
+  ]
+ },
+ "injection-molding": {
+  "title": "Injection Molding",
+  "subtitle": "Mass production of high-precision plastic parts in Chennai",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "What is Injection Molding?"
+   },
+   {
+    "t": "p",
+    "x": "Injection Molding is a manufacturing process used to produce plastic parts in large quantities by injecting molten plastic material into a custom-made metal mold. After cooling and solidifying, the part is ejected from the mold. VCAN 3D provides high-precision injection molding services in Chennai for automotive, industrial, and consumer applications."
+   },
+   {
+    "t": "h3",
+    "x": "🔧 How Injection Molding Works:"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Plastic granules are fed into a heated barrel",
+     "Material melts and becomes molten plastic",
+     "Molten plastic is injected into a metal mold under high pressure",
+     "Plastic cools and solidifies inside the mold",
+     "Finished part is ejected from the mold"
+    ]
+   },
+   {
+    "t": "h3",
+    "x": "⭐ Advantages of Injection Molding"
+   },
+   {
+    "t": "grid",
+    "items": [
+     "Ideal for mass production",
+     "High precision & repeatability",
+     "Strong & durable parts",
+     "Smooth surface finish",
+     "Low cost per part (for high volumes)"
+    ]
+   }
+  ],
+  "images": [
+   {
+    "src": "Injection-Molding.png",
+    "alt": "Injection Molding Service by VCAN 3D Chennai - Plastic Part Manufacturing"
+   }
+  ]
+ },
+ "low-volume-production": {
+  "title": "Low Volume Production",
+  "subtitle": "Manufacturing from 10 to 1000 pieces with efficiency in Chennai",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "What is Low Volume Production?"
+   },
+   {
+    "t": "p",
+    "x": "Low Volume Production means manufacturing a small quantity of parts — usually from 10 to 1000 pieces — instead of mass production. VCAN 3D's low volume production services in Chennai are ideal for companies that need limited quantities before moving to full-scale injection molding, helping reduce initial investment and time to market."
+   },
+   {
+    "t": "h3",
+    "x": "🔧 How VCAN 3D Does Low Volume Production:"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Vacuum Casting (silicone molds)",
+     "3D Printing (SLS, MJF, SLA, FDM, DLP)",
+     "Prototype tooling",
+     "Short-run Injection Molding"
+    ]
+   },
+   {
+    "t": "h3",
+    "x": "⭐ Benefits of Low Volume Production"
+   },
+   {
+    "t": "grid",
+    "items": [
+     "Faster time to market",
+     "Lower initial investment",
+     "Bridge between prototyping & mass production",
+     "Design flexibility"
+    ]
+   }
+  ],
+  "images": [
+   {
+    "src": "process-image.png",
+    "alt": "Low Volume Production Service by VCAN 3D Chennai - Small Batch Manufacturing"
+   }
+  ]
+ },
+ "mould-making": {
+  "title": "Mould Making",
+  "subtitle": "Custom tooling solutions for precision manufacturing in Chennai",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "What is Mould Making?"
+   },
+   {
+    "t": "p",
+    "x": "Mould Making is the process of creating a mold (tool) used to produce plastic or resin parts. At VCAN 3D in Chennai, moulds are precision-engineered based on the customer's CAD design, enabling accurate and repeatable part production for vacuum casting and injection molding applications."
+   },
+   {
+    "t": "h3",
+    "x": "🔧 Types of Molds We Create:"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Silicone mold (for Vacuum Casting)",
+     "Metal mold (for Injection Molding)",
+     "Prototype tooling for low-volume production"
+    ]
+   },
+   {
+    "t": "h3",
+    "x": "⭐ Our Mould Making Capabilities"
+   },
+   {
+    "t": "grid",
+    "items": [
+     "Custom CAD-based design",
+     "High precision tooling",
+     "Durable metal molds",
+     "Flexible silicone molds"
+    ]
+   }
+  ],
+  "images": [
+   {
+    "src": "Mould-Making.png",
+    "alt": "Mould Making Service by VCAN 3D Chennai - Custom Tooling for Plastic Parts"
+   }
+  ]
+ },
+ "rapid-prototyping": {
+  "title": "Rapid Prototyping",
+  "subtitle": "Accelerate your product development cycle in Chennai",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "What is Rapid Prototyping?"
+   },
+   {
+    "t": "p",
+    "x": "Rapid Prototyping is a fast manufacturing process used to quickly create a physical model or prototype of a product design using 3D printing or other advanced technologies. VCAN 3D's rapid prototyping services in Chennai help companies test, improve, and finalize their product before mass production, saving time and development costs."
+   },
+   {
+    "t": "h3",
+    "x": "🔧 How It Works at VCAN 3D:"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Customer shares CAD file (STL/STEP format)",
+     "Suitable technology selected (FDM, SLA, SLS, MJF, DLP)",
+     "Prototype is 3D printed quickly",
+     "Testing, design changes & improvements made",
+     "Final product approval before mass production"
+    ]
+   },
+   {
+    "t": "h3",
+    "x": "⭐ Benefits of Rapid Prototyping"
+   },
+   {
+    "t": "grid",
+    "items": [
+     "Faster product development",
+     "Reduced development cost",
+     "Easy design modification",
+     "Quick market testing",
+     "Functional & visual testing"
+    ]
+   }
+  ],
+  "images": [
+   {
+    "src": "Rapid-Prototyping.png",
+    "alt": "Rapid Prototyping Service by VCAN 3D Chennai - Fast 3D Prototype Manufacturing"
+   }
+  ]
+ },
+ "sla": {
+  "title": "SLA 3D Printing",
+  "subtitle": "High-precision resin-based manufacturing in Chennai",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "What is SLA 3D Printing?"
+   },
+   {
+    "t": "p",
+    "x": "SLA (Stereolithography) is a resin-based 3D printing technology that uses a UV laser to cure (harden) liquid photopolymer resin layer by layer to create highly detailed parts. VCAN 3D's SLA services in Chennai deliver exceptional accuracy and surface quality for prototypes and precision components."
+   },
+   {
+    "t": "h3",
+    "x": "🔧 How SLA Works:"
+   },
+   {
+    "t": "list",
+    "items": [
+     "Liquid resin is filled in a tank",
+     "UV laser scans the design layer by layer",
+     "Resin hardens where the laser hits",
+     "Platform moves layer by layer",
+     "Final part is cleaned & UV cured"
+    ]
+   },
+   {
+    "t": "h3",
+    "x": "⭐ Advantages of SLA 3D Printing"
+   },
+   {
+    "t": "grid",
+    "items": [
+     "Very high accuracy",
+     "Smooth surface finish",
+     "Great for detailed prototypes",
+     "Ideal for small & precision parts"
+    ]
+   }
+  ],
+  "images": [
+   {
+    "src": "SLA.png",
+    "alt": "SLA 3D Printing Service by VCAN 3D Chennai - Resin Part Manufacturing"
+   }
+  ]
+ },
+ "sls-mjf-dlp": {
+  "title": "SLS / MJF / DLP 3D Printing",
+  "subtitle": "Advanced Industrial 3D Printing Technologies in Chennai",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "What is SLS 3D Printing?"
+   },
+   {
+    "t": "p",
+    "x": "SLS (Selective Laser Sintering) is a 3D printing technology that uses a high-power laser to fuse powdered material (usually Nylon/PA12) layer by layer to create strong and functional parts. Unlike FDM, SLS does not require support structures because the surrounding powder supports the part during printing."
+   },
+   {
+    "t": "h3",
+    "x": "🔧 How SLS Works:"
+   },
+   {
+    "t": "list",
+    "items": [
+     "A thin layer of powder is spread on the build platform",
+     "Laser selectively fuses the powder as per CAD design",
+     "Platform lowers and new powder layer is spread",
+     "Process repeats layer by layer",
+     "Excess powder is removed after printing"
+    ]
+   },
+   {
+    "t": "h3",
+    "x": "⭐ Advantages of SLS"
+   },
+   {
+    "t": "grid",
+    "items": [
+     "No support structures required",
+     "Strong & durable parts",
+     "Complex geometries possible",
+     "Good for batch production"
+    ]
+   }
+  ],
+  "images": [
+   {
+    "src": "SLS.png",
+    "alt": "SLS 3D Printing Service by VCAN 3D Chennai - Nylon Powder Sintering"
+   },
+   {
+    "src": "MJF.png",
+    "alt": "MJF 3D Printing Service by VCAN 3D Chennai - HP Multi Jet Fusion"
+   },
+   {
+    "src": "DLP.png",
+    "alt": "DLP 3D Printing Service by VCAN 3D Chennai - Digital Light Processing"
+   }
+  ]
+ },
+ "vacuum-casting": {
+  "title": "Vacuum Casting",
+  "subtitle": "High-quality plastic parts in small batches using silicone molds",
+  "blocks": [
+   {
+    "t": "h2",
+    "x": "What is Vacuum Casting?"
+   },
+   {
+    "t": "p",
+    "x": "Vacuum Casting is a manufacturing process used to produce high-quality plastic parts in small batches using a silicone mold under vacuum conditions. VCAN 3D's vacuum casting service in Chennai is mainly used for low-volume production and for creating parts that closely resemble injection-molded components at a fraction of the cost."
+   },
+   {
+    "t": "h3",
+    "x": "🔧 How Vacuum Casting Works:"
+   },
+   {
+    "t": "list",
+    "items": [
+     "A master model is created (usually by SLA/DLP 3D printing)",
+     "Silicone rubber is poured around the master to create a mold",
+     "Mold is placed inside a vacuum chamber",
+     "Liquid polyurethane resin is poured into the mold",
+     "Resin cures and the finished part is removed"
+    ]
+   },
+   {
+    "t": "h3",
+    "x": "⭐ Advantages of Vacuum Casting"
+   },
+   {
+    "t": "grid",
+    "items": [
+     "Ideal for low-volume production (10–100+ parts)",
+     "Smooth surface finish",
+     "Multiple material options (ABS-like, rubber-like, transparent)",
+     "Lower cost compared to injection molding",
+     "Faster lead time"
+    ]
+   }
+  ],
+  "images": [
+   {
+    "src": "Vacuum-Casting.png",
+    "alt": "Vacuum Casting Service by VCAN 3D Chennai - Silicone Mold Plastic Parts"
+   },
+   {
+    "src": "Vacuum-Casting-2.png",
+    "alt": "Vacuum Casting Service by VCAN 3D Chennai - Silicone Mold Plastic Parts"
+   }
+  ]
+ }
+}
